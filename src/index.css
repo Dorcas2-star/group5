@@ -29,6 +29,7 @@ nav .logo a  img{
 nav a{
     text-decoration: none;
     padding-right: 95px;
+    position: fixed;
    
 }
 .intro{
@@ -36,4 +37,5 @@ nav a{
   height: 60%;
   background-color: blue;
 }
+
  
