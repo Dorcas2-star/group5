@@ -12,10 +12,11 @@ function App() {
           <div class="logo">
             <a href='#' ><img src ="https://www.2exhibitions.com/wp-content/uploads/2022/07/kigali-convention-centre-kigali-rwanda.png"></img></a>
           </div>
-               <button><a href="#">Home</a></button>  
-               <button><a href="#">About</a></button> 
-               <button><a href="#">Services</a></button> 
-               <button><a href="#">Contact</a></button> 
+          
+               <a href="#">Home</a>  
+               <a href="#">About</a> 
+               <a href="#">Services</a> 
+               <a href="#">Contact</a> 
                   </nav>
               </header>
               <div id="home">
@@ -26,7 +27,9 @@ function App() {
   </video>
 
  
-  <div class="bg-overlay"></div>
+  <div class="bg-overlay">
+    <p>YES WE CAN</p>
+  </div>
 </div>
       </>
   );
